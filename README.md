@@ -37,7 +37,14 @@
 ## 安装
 
 ```sh
+hexo init hexo-site
+```
+
+```sh
 cd hexo-site
+```
+
+```sh
 git clone git@github.com:yeshooooo/hexo-theme-next.git themes/next
 ```
 
