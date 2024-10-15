@@ -34,20 +34,11 @@
   More «NexT» examples <a href="https://github.com/next-theme/awesome-next#live-preview">here</a>.
 </p>
 
-## Installation
-
-If you're using Hexo 5.0 or later, the simplest way to install is through npm:
+## 安装
 
 ```sh
 cd hexo-site
-npm install hexo-theme-next
-```
-
-Or you can clone the entire repository:
-
-```sh
-cd hexo-site
-git clone https://github.com/next-theme/hexo-theme-next themes/next
+git clone git@github.com:yeshooooo/hexo-theme-next.git themes/next
 ```
 
 See [detailed installation instructions][docs-installation-url] if you want any other variant.
@@ -112,12 +103,12 @@ git pull
 
 ## Feedback
 
-* Visit the [Awesome NexT][awesome-next-url] list to share plugins and tutorials with other users.
-* Join our [GitHub discussions][discussions-url] / [Gitter][gitter-url] chats.
-* [Add or improve translation][i18n-url] in few seconds.
-* Report a bug in [GitHub Issues][issues-bug-url].
-* Request a new feature on [GitHub][issues-feat-url].
-* Vote for [popular feature requests][feat-req-vote-url].
+- Visit the [Awesome NexT][awesome-next-url] list to share plugins and tutorials with other users.
+- Join our [GitHub discussions][discussions-url] / [Gitter][gitter-url] chats.
+- [Add or improve translation][i18n-url] in few seconds.
+- Report a bug in [GitHub Issues][issues-bug-url].
+- Request a new feature on [GitHub][issues-feat-url].
+- Vote for [popular feature requests][feat-req-vote-url].
 
 ## Contributing
 
@@ -176,16 +167,13 @@ Also, we welcome Issue or PR to our [official-plugins][official-plugins-url].
 [docs-custom-files-url]: https://theme-next.js.org/docs/advanced-settings/custom-files.html
 [docs-release-url]: https://github.com/next-theme/hexo-theme-next/releases
 [docs-upgrade-url]: https://theme-next.js.org/docs/getting-started/upgrade.html
-
 [awesome-next-url]: https://github.com/next-theme/awesome-next
 [discussions-url]: https://github.com/next-theme/hexo-theme-next/discussions
 [gitter-url]: https://app.gitter.im/#/room/#next:gitter.im
 [i18n-url]: https://crowdin.com/project/hexo-theme-next
-
 [issues-bug-url]: https://github.com/next-theme/hexo-theme-next/issues/new?assignees=&labels=Bug&template=bug-report.md
 [issues-feat-url]: https://github.com/next-theme/hexo-theme-next/issues/new?assignees=&labels=Feature+Request&template=feature-request.md
 [feat-req-vote-url]: https://github.com/next-theme/hexo-theme-next/issues?q=is%3Aopen+is%3Aissue+label%3A%22Feature+Request%22
-
 [contributing-document-url]: https://github.com/next-theme/hexo-theme-next/blob/master/.github/CONTRIBUTING.md
 [official-plugins-url]: https://github.com/next-theme
 [contributors-image]: https://raw.githubusercontent.com/next-theme/contributors/master/contributors.svg
